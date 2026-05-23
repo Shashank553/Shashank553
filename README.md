@@ -1,28 +1,118 @@
-Hi 👋 My name is Shashank Sreenivas Gujapaneni
-==============================================
+# 👋 Shashank Sreenivas Gujapaneni
 
-Computer Science Engineer - Generative AI Enthusiast
-----------------------------------------------------
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shashank-sreenivas)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Shashank553)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/KLU2300033058/)
+[![HackerRank](https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=black)](https://www.hackerrank.com/profile/h2300033058)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:2300033058cseh@gmail.com)
 
-I am a B.Tech Artificial Intelligence student at KL University with a strong interest in Software Development, Artificial Intelligence, and Full Stack Development. I am passionate about building innovative and real-world applications that solve practical problems.
+---
 
-I have worked on projects such as an Auto Caption Generator using CNN-LSTM, a YouTube Video Summarizer using Large Language Models, and a React CI/CD Deployment project using Jenkins and Docker. Through these projects, I gained hands-on experience in Python, Java, JavaScript, React, SQL, TensorFlow, and DevOps tools.
+## 🚀 About Me
 
-I actively practice coding and problem-solving on platforms like LeetCode and CodeChef to improve my programming and analytical skills. I also participated in hackathons such as the GHCI Hackathon and secured a Top 4 position in the Digital Summit Hackathon.
+B.Tech Artificial Intelligence student at KL University passionate about building innovative applications using Full-Stack Development, Artificial Intelligence, and Generative AI. I focus on solving real-world problems through elegant code and cutting-edge technologies. Always learning, always coding, always improving.
 
-I am a quick learner, team player, and highly motivated individual who is always eager to learn new technologies and improve my technical skills. My goal is to grow as a Software Engineer and contribute to impactful and innovative projects.
+> 💡 **Philosophy:** Great code solves real problems. Let's build something remarkable together.
 
-* 🌍  I'm based in India
-* ✉️  You can contact me at [2300033058cseh@gmail.com](mailto:2300033058cseh@gmail.com)
-* 🧠  I'm currently learning Full Stack Development, Data Structures & Algorithms, Artificial Intelligence, DevOps, React Development, Python Programming, Java Programming, SQL, Problem Solving, Web Development, Software Engineering
-* 👥  I'm open to collaborating on Full Stack Development, AI-based Projects, Web Development, DevOps Projects, Open Source Contributions, and Innovative Software Solutions.
+---
 
-### Skills
+## 💻 Tech Stack
 
-<p align="left">
-<a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" alt="C" title="C" width="36" height="36" /></a><a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" alt="Java" title="Java" width="36" height="36" /></a><a href="https://spring.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/spring-boot-colored.svg" alt="Spring Boot" title="Spring Boot" width="36" height="36" /></a><a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" alt="Git" title="Git" width="36" height="36" /></a><a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" alt="Python" title="Python" width="36" height="36" /></a><a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode-colored.svg" alt="VS Code" title="VS Code" width="36" height="36" /></a><a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" alt="HTML5" title="HTML5" width="36" height="36" /></a><a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" alt="React" title="React" width="36" height="36" /></a><a href="https://angular.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/angularjs-colored.svg" alt="Angular" title="Angular" width="36" height="36" /></a><a href="https://vitejs.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vite-colored.svg" alt="Vite" title="Vite" width="36" height="36" /></a><a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" alt="NodeJS" title="NodeJS" width="36" height="36" /></a><a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" alt="MySQL" title="MySQL" width="36" height="36" /></a><a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" alt="PostgreSQL" title="PostgreSQL" width="36" height="36" /></a><a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" alt="Figma" title="Figma" width="36" height="36" /></a><a href="https://www.linux.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg" alt="Linux" title="Linux" width="36" height="36" /></a>
-</p>
+### Languages & Core
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
 
-### Socials
+### AI & Machine Learning
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
+![Python](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
 
-<p align="left"> <a href="https://www.gitlab.com/Shashank553" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/gitlab.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/gitlab.svg" width="32" height="32" alt="GitLab" title="GitLab" /> </picture> </a> <a href="https://www.github.com/Shashank553" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" alt="GitHub" title="GitHub" /> </picture> </a> <a href="https://www.linkedin.com/in/shashank-sreenivas/" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" alt="LinkedIn" title="LinkedIn" /> </picture> </a> <a href="https://www.codepen.io/Shashank-Sreenivas-the-sasster" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/codepen-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/codepen.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/codepen.svg" width="32" height="32" alt="CodePen" title="CodePen" /> </picture> </a></p>
+### Web & Frameworks
+![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express-000000?style=flat&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
+
+### DevOps & Tools
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat&logo=jenkins&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Shashank553&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shashank553&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+</div>
+
+---
+
+## 🎯 Currently Learning
+
+- 🤖 **Generative AI & Large Language Models** — Exploring LLMs and GenAI applications
+- 🔍 **Advanced Data Structures** — Mastering complex algorithms and optimization techniques
+- 🌐 **Full-Stack Web Development** — Building production-ready applications with modern tech stacks
+- ⚙️ **System Design** — Understanding scalability, databases, and distributed systems
+
+---
+
+## 📌 Featured Projects
+
+### 🏆 High-Impact Work
+
+**Auto Caption Generator** — CNN-LSTM based image captioning system using deep learning
+
+**YouTube Video Summarizer** — Summarizes YouTube videos using Large Language Models and APIs
+
+**React CI/CD Deployment** — Automated deployment pipeline using Jenkins and Docker
+
+Check out my pinned repositories for more real-world projects showcasing clean architecture and deployment-ready code.
+
+---
+
+## 🎓 Experience & Achievements
+
+- **Education:** B.Tech Artificial Intelligence, KL University
+- **Focus Areas:** Generative AI, Full-Stack Development, DevOps, Problem-Solving
+- **Problem-Solving:** 500+ LeetCode & CodeChef problems solved
+- **Hackathons:** Top 4 position in Digital Summit Hackathon, GHCI Hackathon participant
+- **Platforms:** Active on LeetCode, CodeChef, HackerRank
+
+---
+
+## 🤝 Let's Connect
+
+I'm always interested in:
+- 💼 Opportunities in AI/ML and Full-Stack Development
+- 🤖 AI-based projects and Generative AI applications
+- 🌐 Web development and DevOps collaborations
+- 👥 Building innovative solutions with talented developers
+
+**Reach out:** [LinkedIn](https://www.linkedin.com/in/shashank-sreenivas) | [Email](mailto:2300033058cseh@gmail.com)
+
+---
+
+## ⭐ Fun Fact
+
+When not coding, you'll find me exploring new AI technologies, contributing to open-source projects, or working on innovative applications that solve real-world problems.
+
+---
+
+<div align="center">
+
+### 📈 Let's Build Something Great Together!
+
+[![Profile Views](https://komarev.com/ghpvc/?username=Shashank553&style=flat-square&color=blue)](https://github.com/Shashank553)
+
+</div>
