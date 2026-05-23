@@ -28,7 +28,7 @@ B.Tech Artificial Intelligence student at KL University passionate about buildin
 
 ### AI & Machine Learning
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
-![Python](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
 
 ### Web & Frameworks
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
@@ -48,13 +48,10 @@ B.Tech Artificial Intelligence student at KL University passionate about buildin
 
 ## 📊 GitHub Stats
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Shashank553&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shashank553&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-</div>
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Shashank553&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shashank553&layout=compact&langs_count=8&theme=github_dark" />
+</p>
 
 ---
 
@@ -113,6 +110,6 @@ When not coding, you'll find me exploring new AI technologies, contributing to o
 
 ### 📈 Let's Build Something Great Together!
 
-[![Profile Views](https://komarev.com/ghpvc/?username=Shashank553&style=flat-square&color=blue)](https://github.com/Shashank553)
+![Profile Views](https://komarev.com/ghpvc/?username=Shashank553&style=flat-square&color=blue)
 
 </div>
